@@ -16,6 +16,7 @@ when you create a wallet through any crypto wallet app.
 specific algorithm, restore the wallet with them, and check for
 coins on it (BTC, ETH, BNB and etc.
 
+https://youtu.be/f98PijlVabc
 
 The software sifts through hundreds of millions of these
 combinations. After it finds a wallet with crypto on it, it
